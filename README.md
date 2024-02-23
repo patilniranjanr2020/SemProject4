@@ -1,3 +1,4 @@
 # SemProject4
 
-Hi
+Hi guys !
+This folder is for our semister project thing.
